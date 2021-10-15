@@ -102,87 +102,115 @@
 .icon-gear:before {
   content: "\f013";
 }
+
 .icon-trash-o:before {
   content: "\f014";
 }
+
 .icon-home:before {
   content: "\f015";
 }
+
 .icon-file-o:before {
   content: "\f016";
 }
+
 .icon-clock-o:before {
   content: "\f017";
 }
+
 .icon-road:before {
   content: "\f018";
 }
+
 .icon-download:before {
   content: "\f019";
 }
+
 .icon-arrow-circle-o-down:before {
   content: "\f01a";
 }
+
 .icon-arrow-circle-o-up:before {
   content: "\f01b";
 }
+
 .icon-inbox:before {
   content: "\f01c";
 }
+
 .icon-play-circle-o:before {
   content: "\f01d";
 }
+
 .icon-repeat:before {
   content: "\f01e";
 }
+
 .icon-rotate-right:before {
   content: "\f01e";
 }
+
 .icon-refresh:before {
   content: "\f021";
 }
+
 .icon-list-alt:before {
   content: "\f022";
 }
+
 .icon-lock:before {
   content: "\f023";
 }
+
 .icon-flag:before {
   content: "\f024";
 }
+
 .icon-headphones:before {
   content: "\f025";
 }
+
 .icon-volume-off:before {
   content: "\f026";
 }
+
 .icon-volume-down:before {
   content: "\f027";
 }
+
 .icon-volume-up:before {
   content: "\f028";
 }
+
 .icon-qrcode:before {
   content: "\f029";
 }
+
 .icon-barcode:before {
   content: "\f02a";
 }
+
 .icon-tag:before {
   content: "\f02b";
 }
+
 .icon-tags:before {
   content: "\f02c";
 }
+
 .icon-book:before {
   content: "\f02d";
 }
+
 .icon-bookmark:before {
   content: "\f02e";
 }
+
 .icon-print:before {
   content: "\f02f";
 }
+
 .icon-camera:before {
   content: "\f030";
 }

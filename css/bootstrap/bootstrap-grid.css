@@ -288,6 +288,7 @@ html {
     -ms-flex: 0 0 16.66667%;
     flex: 0 0 16.66667%;
     max-width: 16.66667%; }
+
   .col-sm-3 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
@@ -408,6 +409,7 @@ html {
     margin-left: 25%; }
   .offset-sm-4 {
     margin-left: 33.33333%; }
+
   .offset-sm-5 {
     margin-left: 41.66667%; }
   .offset-sm-6 {
@@ -875,6 +877,7 @@ html {
     -webkit-box-ordinal-group: 13;
     -ms-flex-order: 12;
     order: 12; }
+
   .offset-xl-0 {
     margin-left: 0; }
   .offset-xl-1 {
@@ -958,6 +961,7 @@ html {
 @media (min-width: 768px) {
   .d-md-none {
     display: none !important; }
+
   .d-md-inline {
     display: inline !important; }
   .d-md-inline-block {
@@ -1315,6 +1319,7 @@ html {
   .align-self-sm-auto {
     -ms-flex-item-align: auto !important;
     align-self: auto !important; }
+
   .align-self-sm-start {
     -ms-flex-item-align: start !important;
     align-self: flex-start !important; }
@@ -1369,6 +1374,7 @@ html {
     -webkit-box-flex: 0 !important;
     -ms-flex-positive: 0 !important;
     flex-grow: 0 !important; }
+
   .flex-md-grow-1 {
     -webkit-box-flex: 1 !important;
     -ms-flex-positive: 1 !important;
@@ -2244,6 +2250,7 @@ html {
     margin-left: -0.5rem !important; }
   .m-sm-n3 {
     margin: -1rem !important; }
+
   .mt-sm-n3,
   .my-sm-n3 {
     margin-top: -1rem !important; }
@@ -2649,6 +2656,7 @@ html {
   .pb-lg-0,
   .py-lg-0 {
     padding-bottom: 0 !important; }
+
   .pl-lg-0,
   .px-lg-0 {
     padding-left: 0 !important; }
@@ -2696,6 +2704,7 @@ html {
     padding-left: 1rem !important; }
   .p-lg-4 {
     padding: 1.5rem !important; }
+
   .pt-lg-4,
   .py-lg-4 {
     padding-top: 1.5rem !important; }
@@ -2822,6 +2831,7 @@ html {
   .ml-xl-0,
   .mx-xl-0 {
     margin-left: 0 !important; }
+
   .m-xl-1 {
     margin: 0.25rem !important; }
   .mt-xl-1,
@@ -2931,6 +2941,7 @@ html {
   .pb-xl-2,
   .py-xl-2 {
     padding-bottom: 0.5rem !important; }
+
   .pl-xl-2,
   .px-xl-2 {
     padding-left: 0.5rem !important; }
@@ -3043,6 +3054,7 @@ html {
   .mb-xl-n5,
   .my-xl-n5 {
     margin-bottom: -3rem !important; }
+    
   .ml-xl-n5,
   .mx-xl-n5 {
     margin-left: -3rem !important; }

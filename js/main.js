@@ -24,7 +24,7 @@ jQuery(document).ready(function ($) {
       $(".site-mobile-menu .has-children").each(function () {
         var $this = $(this);
 
-        $this.prepend('<span class="arrow-collapse collapsed">');
+        $this.prepend("<span class='arrow-collapse collapsed'>");
 
         $this.find(".arrow-collapse").attr({
           "data-toggle": "collapse",
@@ -147,8 +147,8 @@ jQuery(document).ready(function ($) {
         nav: true,
         smartSpeed: 1000,
         navText: [
-          '<span class="icon-arrow_back">',
-          '<span class="icon-arrow_forward">',
+          "<span class='icon-arrow_back'>",
+          "<span class='icon-arrow_forward'>",
         ],
         responsive: {
           600: {
@@ -184,8 +184,8 @@ jQuery(document).ready(function ($) {
       pauseOnHover: false,
       nav: true,
       navText: [
-        '<span class="icon-keyboard_arrow_left">',
-        '<span class="icon-keyboard_arrow_right">',
+        "<span class='icon-keyboard_arrow_left'>",
+        "<span class='icon-keyboard_arrow_right'>",
       ],
     });
   };
@@ -208,11 +208,11 @@ jQuery(document).ready(function ($) {
       var $this = $(this).html(
         event.strftime(
           "" +
-            '<span class="countdown-block"><span class="label">%w</span> weeks </span>' +
-            '<span class="countdown-block"><span class="label">%d</span> days </span>' +
-            '<span class="countdown-block"><span class="label">%H</span> hr </span>' +
-            '<span class="countdown-block"><span class="label">%M</span> min </span>' +
-            '<span class="countdown-block"><span class="label">%S</span> sec</span>'
+            "<span class='countdown-block'><span class='label'>%w</span> weeks </span>" +
+            "<span class='countdown-block'><span class='label'>%d</span> days </span>" +
+            "<span class='countdown-block'><span class='label'>%H</span> hr </span>" +
+            "<span class='countdown-block'><span class='label'>%M</span> min </span>" +
+            "<span class='countdown-block'><span class='label'>%S</span> sec</span>"
         )
       );
     });

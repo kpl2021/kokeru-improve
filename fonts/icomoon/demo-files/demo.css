@@ -87,6 +87,7 @@ input:focus {
 .fgc1 {
   color: #999;
 }
+
 .fgc0 {
   color: #000;
 }
@@ -162,7 +163,7 @@ p {
 
 .clearfix:before,
 .clearfix:after {
-  content: ' ';
+  content: " ";
   display: table;
 }
 

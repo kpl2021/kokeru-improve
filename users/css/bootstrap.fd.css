@@ -10,6 +10,7 @@
   font-size: 32px;
   text-align: center;
 }
+
 .bfd-dropfield-inner:hover,
 .bfd-dropfield-inner.bfd-dragover {
   border-color: #bbb;

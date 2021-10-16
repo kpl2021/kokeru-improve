@@ -33,14 +33,14 @@
   list-style: none;
 }
 
-.ui-helper-clearfix:before,
-.ui-helper-clearfix:after {
+.ui-helper-clearfix::before,
+.ui-helper-clearfix::after {
   content: "";
   display: table;
   border-collapse: collapse;
 }
 
-.ui-helper-clearfix:after {
+.ui-helper-clearfix::after {
   clear: both;
 }
 

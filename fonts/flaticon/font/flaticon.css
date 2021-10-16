@@ -22,10 +22,10 @@
   }
 }
 
-[class^="flaticon-"]:before,
-[class*=" flaticon-"]:before,
-[class^="flaticon-"]:after,
-[class*=" flaticon-"]:after {
+[class^="flaticon-"]::before,
+[class*=" flaticon-"]::before,
+[class^="flaticon-"]::after,
+[class*=" flaticon-"]::after {
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
@@ -38,26 +38,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-mexican-taco:before {
+.flaticon-mexican-taco::before {
   content: "\f100";
 }
 
-.flaticon-house:before {
+.flaticon-house::before {
   content: "\f101";
 }
 
-.flaticon-guitar:before {
+.flaticon-guitar::before {
   content: "\f102";
 }
 
-.flaticon-gym:before {
+.flaticon-gym::before {
   content: "\f103";
 }
 
-.flaticon-shopping-bag:before {
+.flaticon-shopping-bag::before {
   content: "\f104";
 }
 
-.flaticon-cocktail:before {
+.flaticon-cocktail::before {
   content: "\f105";
 }
